@@ -1,5 +1,5 @@
 # Spoiler_Type_Generation
-Train the model with existing spoilers and their types, generate spoiler types for new spoilers
+Train the model with existing spoilers and their types, generate spoiler and spoiler types for new texts
 
 
 While running the code, Upload the train.jsonl and validation.jsonl files in the same folder of code if you are running in jupyter notebook or upload them if running in google collab.
