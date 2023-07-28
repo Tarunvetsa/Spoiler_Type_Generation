@@ -14,7 +14,5 @@ The dataset comes with predefined train/validation/test splits:
 
 - [3,200 posts for training](training.jsonl)
 - [800 posts for validation](validation.jsonl)
-- [1,000 posts for testing](test.jsonl)
-  - The test set is ommitted from this version of the dataset since we want to organize a shared task on clickbait spoiling and for this we want to keep the test set private until the end of the shared task.
-- The [complete corpus with 5,000 clickbait posts](clickbait-spoiling-21.jsonl)
-  - The clickbait-spoiling-21.jsonl file is ommitted from this version of the dataset since we want to organize a shared task on clickbait spoiling and for this we want to keep the test set private until the end of the shared task.
+  
+  Spoilers and their types are generated for each post,and accuracy calculated by comparing with the posts in validation.jsonl
